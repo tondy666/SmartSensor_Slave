@@ -2,7 +2,7 @@
  * mySmartSensor.c
  *
  *  Created on: Dec 11, 2019
- *      Author:
+ *      Author: Tonday
  */
 
 #include "mySmartSensor.h"
