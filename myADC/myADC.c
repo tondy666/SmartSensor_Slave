@@ -2,7 +2,7 @@
  * myADC.c
  *
  *  Created on: Oct 10, 2019
- *      Author: Andi
+ *      Author: Tonday
  */
 #include "myADC.h"
 uint8_t temp1, temp2;
