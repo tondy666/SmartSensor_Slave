@@ -1,6 +1,7 @@
 # SmartSensor_Slave
 
 Project ini dibuat untuk memenuhi project workshop microcontroller lanjut
+
 This Project created for fill task from workshop microcontroller lanjut
 
 ## Smart Sensor (Slave) Using Arduino UNO Rev3
